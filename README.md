@@ -19,4 +19,4 @@ download the game
 
 <img src=
         -3D-Maze-complete/download.png
-      ></img>
+      >
